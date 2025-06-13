@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Harshini
+- 👋 Hi, I’m @Harshini Balakrishnan
 - 👀 I’m interested in learning new things around me
 - 🌱 I’m currently learning Data Analytics
 - 💞️ I’m looking to collaborate on devloping ideas
