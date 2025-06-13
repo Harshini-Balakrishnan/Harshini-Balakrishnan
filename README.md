@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Harshini-devops
+- 👋 Hi, I’m @Harshini
 - 👀 I’m interested in learning new things around me
-- 🌱 I’m currently learning Devops
+- 🌱 I’m currently learning Data Analytics
 - 💞️ I’m looking to collaborate on devloping ideas
 - 📫 Reach me @rishiwanthharsh@gmail.com
   
